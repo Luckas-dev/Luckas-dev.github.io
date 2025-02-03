@@ -91,6 +91,9 @@ h2 {
     font-size: 25px;
     font-family: "Lexend", serif;
 }
+h3{
+    font-weight: 700;;
+}
 
 .geoFigureContainer {
     display: flex;
